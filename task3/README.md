@@ -4,7 +4,7 @@
 ========
 ### Architecture
 
-![Architecture](solution_1.jpg)
+![Architecture](task3/solution_1.jpg)
 
 ### Description
 -----------
@@ -27,7 +27,7 @@ Note:
 ========
 ### Architecture
 
-![Architecture](solution_2.jpg)
+![Architecture](task3/solution_2.jpg)
 
 ### Description
 -----------
