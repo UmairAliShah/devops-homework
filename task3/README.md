@@ -4,7 +4,7 @@
 ========
 ### Architecture
 
-![Architecture](task3/solution_1.jpg)
+![Architecture](solution_1.png)
 
 ### Description
 -----------
