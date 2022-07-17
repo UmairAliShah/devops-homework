@@ -27,7 +27,7 @@ Note:
 ========
 ### Architecture
 
-![Architecture](task3/solution_2.png)
+![Architecture](solution_2.png)
 
 ### Description
 -----------
